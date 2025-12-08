@@ -1,6 +1,6 @@
 #include <array>
 
-#include "src/sorter_tester.hpp"
+#include "src/sorter_tester.cpp"
 
 int main()
 {
